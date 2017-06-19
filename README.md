@@ -20,11 +20,4 @@ react-native run-android
 
 Screen Shots
 ---
-<img src="docs/1.jpg" width="200" />
-<img src="docs/2.jpg" width="200" />
-<img src="docs/3.jpg" width="200" />
-<img src="docs/4.jpg" width="200" />
-<img src="docs/5.jpg" width="200" />
-<img src="docs/6.jpg" width="200" />
-<img src="docs/7.jpg" width="200" />
-<img src="docs/8.jpg" width="200" />
+<img src="docs/1.jpg" width="200" /><img src="docs/2.jpg" width="200" /><img src="docs/3.jpg" width="200" /><img src="docs/4.jpg" width="200" /><img src="docs/5.jpg" width="200" /><img src="docs/6.jpg" width="200" /><img src="docs/7.jpg" width="200" /><img src="docs/8.jpg" width="200" />
