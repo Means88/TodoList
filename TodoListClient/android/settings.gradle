@@ -1,0 +1,3 @@
+rootProject.name = 'TodoListClient'
+
+include ':app'
