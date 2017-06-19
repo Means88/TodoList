@@ -14,6 +14,7 @@ React Native
 ---
 Change `baseURL` in `TodoListClient/js/client.config.js` to Django server.
 ```
+yarn install
 yarn start
 react-native run-android
 ```
